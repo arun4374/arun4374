@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Student <br>🤝 I’m looking for help with coders <br>🌱 I’m currently learning Android development <br>💬 Ask me....<br>⚡ Day by Day funny 
+🔭 Freasher <br>🤝 I’m looking for help with coders <br>🌱 I’m currently learning DSA <br>💬 Ask me....<br>⚡ Day by Day funny 
 
 
 ## 🌐 Socials:
