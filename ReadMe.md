@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://loki4374.github.io/portfolio/](https://loki4374.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://arun4374.github.io/portfolio/](https://arun4374.github.io/portfolio/)
 
 - 📫 How to reach me **arunkumar2003128@gmail.com**
 
