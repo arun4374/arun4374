@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arunkumar2003128@gmail.com**
 
-- ⚡ Fun fact **From nuts & bolts 🔩 to bits & bytes 💻 Still upgrading myself... V2.0 loading ⏳**
+- ⚡ Fun fact:  **From nuts & bolts 🔩 to bits & bytes 💻 Still upgrading myself... V2.0 loading ⏳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
